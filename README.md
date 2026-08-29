@@ -7,7 +7,7 @@ CampusShield is an interactive cybersecurity architecture prototype designed for
 The application compares a legacy flat network with a proposed zero-trust architecture, calculates potential attack movement, evaluates identity and network controls, and generates a downloadable client security assessment.
 
 > **Project status:** Functional interview-ready prototype  
-> **Live demonstration:** Link will be added after deployment
+> **Live demonstration:** [Open CampusShield](https://campusshield-security.streamlit.app)
 
 ## Application Preview
 
